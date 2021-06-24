@@ -1,0 +1,26 @@
+[
+    {
+        "id_product": 1,
+        "product_name": "Notebook",
+        "price": 1600,
+        "img": "file:///Users/mac/Documents/Учеба/VSC/frontend/JS/JS2/HW/img/01.png"
+    },
+    {
+        "id_product": 2,
+        "product_name": "Mouse",
+        "price": 30,
+        "img": "file:///Users/mac/Documents/Учеба/VSC/frontend/JS/JS2/HW/img/02.png"
+    },
+    {
+        "id_product": 3,
+        "product_name": "Keyboard",
+        "price": 300,
+        "img": "file:///Users/mac/Documents/Учеба/VSC/frontend/JS/JS2/HW/img/03.png"
+    },
+    {
+        "id_product": 4,
+        "product_name": "Gamepad",
+        "price": 500,
+        "img": "file:///Users/mac/Documents/Учеба/VSC/frontend/JS/JS2/HW/img/04.png"
+    }
+]
